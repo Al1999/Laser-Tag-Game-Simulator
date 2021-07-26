@@ -1,5 +1,5 @@
-// Alkhatab Alrashdi - CS202-001
-// Program #2 - November 4th, 2019
+// Alkhatab Alrashdi 
+// November 4th, 2019
 
 // *************************************************************
 // The purpose of this program is to play the lazer tag game in 
